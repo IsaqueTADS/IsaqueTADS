@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg](https://github.com/IsaqueTADS/IsaqueTADS/blob/2ee408223f89d74bf2f67170f9d444362ed1cc62/cobra.yml)" alt="Snake animation" />
 
 ###
 
