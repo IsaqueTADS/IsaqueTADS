@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋! My name is Isaque Rodrigues and I am an ADS student, focused on being Full Stack in web development</h1>
 
 ###
+<div aling="center">
 ![Full Stack Developer](https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/full_stack_animation.svg)
+</div>
 
 
 <div align="center">
