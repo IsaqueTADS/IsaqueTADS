@@ -48,6 +48,7 @@
 <h1 align="left">Entre em contato!</h1>
 
 ###
+<img align="left" height="150" src="https://github.com/IsaqueTADS/IsaqueTADS/blob/main/ISAQUE.gif?raw=true"  />
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UC1ZcpOjaVvdP5d1Z0Z_HKsw" target="_blank">
