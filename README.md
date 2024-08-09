@@ -1,14 +1,12 @@
 <br clear="both">
 
-<img align="left" height="400" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
+<img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
 
 ###
 
-<h3 align="center">Hi 👋! My name is Isaque Rodrigues, and I am an ADS (Analysis and Development of Systems) student with a strong focus on becoming a Full Stack web developer. I am passionate about creating dynamic and interactive web applications, and I’m dedicated to mastering both front-end and back-end technologies. My goal is to leverage my skills to build innovative solutions and contribute to impactful projects in the tech industry.</h3>
+<p align="center">Hi 👋! My name is Isaque Rodrigues, and I am an ADS (Analysis and Development of Systems) student with a strong focus on becoming a Full Stack web developer. I am passionate about creating dynamic and interactive web applications, and I’m dedicated to mastering both front-end and back-end technologies. My goal is to leverage my skills to build innovative solutions and contribute to impactful projects in the tech industry.</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,6 +27,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueTADS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="162" alt="stats graph"  />
