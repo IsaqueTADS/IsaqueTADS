@@ -2,7 +2,10 @@
 
 ###
 
-![Full Stack Developer](https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/full_stack_animation.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/full_stack_animation.svg" alt="Full Stack Developer">
+</p>
+
 
 
 <div align="center">
