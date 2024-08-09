@@ -1,14 +1,10 @@
+<br clear="both">
+
 <img align="left" height="400" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
 
 ###
 
 <p align="center">Hi 👋! My name is Isaque Rodrigues, and I am an ADS (Analysis and Development of Systems) student with a strong focus on becoming a Full Stack web developer. I am passionate about creating dynamic and interactive web applications, and I’m dedicated to mastering both front-end and back-end technologies. My goal is to leverage my skills to build innovative solutions and contribute to impactful projects in the tech industry.</p>
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueTADS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="126" alt="languages graph"  />
-</div>
 
 ###
 
@@ -38,7 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueTADS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IsaqueTADS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueTADS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
