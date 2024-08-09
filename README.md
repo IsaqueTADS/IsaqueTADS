@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="<img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" />" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" alt="Snake animation" />
 
 ###
 
