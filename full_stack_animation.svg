@@ -1,28 +1,38 @@
 <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:rgb(34,193,195);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(253,187,45);stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#00ff00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004d00;stop-opacity:1" />
     </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feFlood flood-color="cyan" result="color"/>
+      <feComposite in="SourceGraphic" in2="color" operator="in"/>
+      <feGaussianBlur stdDeviation="3"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
     <style>
       .text {
         font-family: Arial, sans-serif;
-        font-size: 24px;
+        font-size: 40px;
         fill: url(#grad1);
         stroke: none;
-        animation: textAnimation 3s infinite alternate;
+        filter: url(#glow);
+        animation: textAnimation 4s infinite alternate;
       }
       @keyframes textAnimation {
         0% {
-          transform: translateX(0);
-          fill: green;
+          transform: translateY(0);
+          fill: url(#grad1);
         }
         100% {
-          transform: translateX(20px);
-          fill: lightgreen;
+          transform: translateY(-10px);
+          fill: #00ff00;
         }
       }
     </style>
   </defs>
-  <text x="10" y="50" class="text">Full Stack</text>
+  <text x="10" y="60" class="text">Full Stack</text>
 </svg>
