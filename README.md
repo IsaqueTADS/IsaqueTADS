@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=IsaqueTADS&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
    <a href="https://www.youtube.com/@BaixaEnergia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BaixaEnergia Jogo&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=BaixaEnergia &logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 
   <a href="https://www.instagram.com/isaque_rodriguesdev/?next=%2F" target="_blank">
