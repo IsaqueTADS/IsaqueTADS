@@ -1,5 +1,10 @@
 <br clear="both">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/full_stack_animation.svg" alt="Full Stack Developer">
+</p>
+
+
 <img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
 
 ###
