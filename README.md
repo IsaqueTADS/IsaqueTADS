@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi 👋! My name is Isaque Rodrigues, and I am an ADS (Analysis and Development of Systems) student with a strong focus on becoming a Full Stack web developer. I am passionate about creating dynamic and interactive web applications, and I’m dedicated to mastering both front-end and back-end technologies. My goal is to leverage my skills to build innovative solutions and contribute to impactful projects in the tech industry.</p>
+<h3 align="center">Hi 👋! My name is Isaque Rodrigues, and I am an ADS (Analysis and Development of Systems) student with a strong focus on becoming a Full Stack web developer. I am passionate about creating dynamic and interactive web applications, and I’m dedicated to mastering both front-end and back-end technologies. My goal is to leverage my skills to build innovative solutions and contribute to impactful projects in the tech industry.</h3>
 
 ###
 
