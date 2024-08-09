@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Isaque Rodrigues and I am an ADS student, focused on being Full Stack in web development</h1>
 
 ###
-![Full Stack Developer](https://github.com/SeuUsuario/SeuRepositorio/raw/main/full_stack_developer.svg)
+![Full Stack Developer][https://github.com/SeuUsuario/SeuRepositorio/raw/main/full_stack_developer.svg]
 
 <div align="center">
   <img height="416" src="https://github.com/IsaqueTADS/IsaqueTADS/blob/main/IsaqueTADS%20copiar.png?raw=true"  />
