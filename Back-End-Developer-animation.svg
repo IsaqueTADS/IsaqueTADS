@@ -1,11 +1,11 @@
 <svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff007f;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#800040;stop-opacity:1" />
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#006400;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
-      <feFlood flood-color="magenta" result="color"/>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feFlood flood-color="lime" result="color"/>
       <feComposite in="SourceGraphic" in2="color" operator="in"/>
       <feGaussianBlur stdDeviation="5"/>
       <feMerge>
@@ -17,19 +17,19 @@
       .text {
         font-family: 'Verdana', sans-serif;
         font-size: 40px;
-        fill: url(#grad2);
+        fill: url(#grad3);
         stroke: none;
-        filter: url(#glow2);
+        filter: url(#glow3);
         animation: textAnimation 4s infinite alternate;
       }
       @keyframes textAnimation {
         0% {
           transform: translateY(0);
-          fill: url(#grad2);
+          fill: url(#grad3);
         }
         100% {
           transform: translateY(-30px);
-          fill: #ff007f;
+          fill: #00ff00;
         }
       }
     </style>
