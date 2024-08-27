@@ -28,7 +28,7 @@
           fill: url(#grad2);
         }
         100% {
-          transform: translateY(-15px);
+          transform: translateY(-30px);
           fill: #ff007f;
         }
       }
