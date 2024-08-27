@@ -1,0 +1,38 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff007f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#800040;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feFlood flood-color="magenta" result="color"/>
+      <feComposite in="SourceGraphic" in2="color" operator="in"/>
+      <feGaussianBlur stdDeviation="5"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .text {
+        font-family: 'Verdana', sans-serif;
+        font-size: 40px;
+        fill: url(#grad2);
+        stroke: none;
+        filter: url(#glow2);
+        animation: textAnimation 4s infinite alternate;
+      }
+      @keyframes textAnimation {
+        0% {
+          transform: translateY(0);
+          fill: url(#grad2);
+        }
+        100% {
+          transform: translateY(-15px);
+          fill: #ff007f;
+        }
+      }
+    </style>
+  </defs>
+  <text x="20" y="70" class="text">Back-end Developer</text>
+</svg>
