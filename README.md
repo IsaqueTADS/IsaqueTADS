@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/Back-End-Developer-animation.svg" alt="Back-End Developer">
+  <img src="" alt="Back-End Developer">
 </p>
 
 
