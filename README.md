@@ -1,7 +1,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/full_stack_animation.svg" alt="Full-Stack-Developer">
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg" alt="Full-Stack-Developer">
 </p>
 
 <img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" />
