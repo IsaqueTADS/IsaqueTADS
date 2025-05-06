@@ -4,14 +4,14 @@
   <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg" alt="Full-Stack-Developer">
 </p>
 
-<img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" />
+<img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" />
 
 ###
 
 <p align="center">
 👋 Olá! Sou Isaque Rodrigues  
 Estudante em Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | C++ | JavaScript | HTML & CSS | Node.js | MySQL & SQL |
-
+  
 💻 Sobre mim  
 Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas no IFNMG. Tenho experiência em desenvolvimento web, criando aplicações dinâmicas e interativas. Meu foco é aprimorar minhas habilidades em tecnologias front-end e back-end para desenvolver soluções eficientes e escaláveis.
 </p>
