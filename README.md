@@ -10,7 +10,7 @@
 
 <p align="center">
 👋 Olá! Sou Isaque Rodrigues  
-Estudante em Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | C++ | JavaScript | HTML & CSS | Node.js | MySQL & SQL | Prisma 💻 Sobre mim  
+Estudante em Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | C++ | JavaScript | TypeScript | Node.js | ReactJs | HTML & CSS  | MySQL | PostgreSQL| Prisma 💻 Sobre mim  
 Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas no IFNMG. Tenho experiência em desenvolvimento web, criando aplicações dinâmicas e interativas. Meu foco é aprimorar minhas habilidades em tecnologias front-end e back-end para desenvolver soluções eficientes e escaláveis.
 </p>
 
@@ -24,21 +24,8 @@ Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistem
   </a>
 </p>
 
-
-###
-
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaqueTADS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="162" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaqueTADS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="162" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<!-- Correção importante aqui -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" />
 </div>
