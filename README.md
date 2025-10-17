@@ -1,10 +1,9 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/backend-developer-animation.svg">
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg">
 </p>
 
-<img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" />
 
 ###
 
