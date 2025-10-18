@@ -9,14 +9,11 @@
 
 ###
 
-<p align="center">👋 Olá! Sou Isaque Rodrigues
-Estudante de Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | JavaScript | TypeScript | Node.js | Express | Fastify | React.js | MySQL & PostgreSQL | Prisma & Drizzle ORM |
-💻 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
-
-Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. Focado em boas práticas, arquitetura de software e autenticação JWT.
-
-Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.</p>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
+  Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. Focado em boas práticas, arquitetura de software e autenticação JWT.
+  Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.
+</p>
 
 
 ###
