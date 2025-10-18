@@ -4,19 +4,19 @@
   <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg">
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" 
+     align="left" 
+     height="350" 
+     style="margin-right: 20px; margin-bottom: 20px;" />
 
-  <img height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" />
+<p style="text-align: justify; max-width: 600px;">
+  Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
+  Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. 
+  <br/>
+  Focado em boas práticas, arquitetura de software e autenticação JWT.
+  Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.
+</p>
 
-  <p style="max-width: 500px; text-align: justify;">
-    Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
-    Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. 
-    <br/>
-    Focado em boas práticas, arquitetura de software e autenticação JWT.
-    Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.
-  </p>
-
-</div>
 
 
 <!-- <img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
