@@ -7,9 +7,32 @@
 
 ###
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" alt="Imagem" width="150"/>
+
+  <div>
+    <p>
+      <strong>Desenvolvedor Full Stack</strong><br>
+      Estudante de Análise e Desenvolvimento de Sistemas (IFNMG)
+    </p>
+    <p>
+      Experiência com aplicações web escaláveis e seguras, focado em boas práticas, arquitetura de software e autenticação JWT.
+    </p>
+    <p>
+      <strong>Tecnologias:</strong> JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma, Drizzle ORM, Docker
+    </p>
+    <p>
+      Apaixonado por desenvolvimento de soluções robustas e escaláveis, sempre em busca de aprendizado contínuo.
+    </p>
+  </div>
+
+</div>
+
+
 
   
-<img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" alt="Imagem" width="150"/>
+<!-- <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" alt="Imagem" width="150"/>
    
 
 
@@ -27,7 +50,7 @@
 
 <p align="center">
   Apaixonado por desenvolvimento de soluções robustas e escaláveis, sempre em busca de aprendizado contínuo.
-</p> 
+</p>  -->
 
 
 ###
