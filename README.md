@@ -8,13 +8,21 @@
 ###
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
-
-Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. Focado em boas práticas, arquitetura de software e autenticação JWT.
-
-Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.
-
+  Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas (IFNMG)
 </p>
+
+<p align="center">
+  Experiência com aplicações web escaláveis e seguras, focado em boas práticas, arquitetura de software e autenticação JWT.
+</p>
+
+<p align="center">
+  <strong>Tecnologias:</strong> JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma, Drizzle ORM, Docker
+</p>
+
+<p align="center">
+  Apaixonado por desenvolvimento de soluções robustas e escaláveis, sempre em busca de aprendizado contínuo.
+</p>
+
 
 ###
 
