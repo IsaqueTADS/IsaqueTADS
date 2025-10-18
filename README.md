@@ -7,51 +7,11 @@
 
 ###
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" alt="Imagem" width="150"/>
-
-  <div>
-    <p>
-      <strong>Desenvolvedor Full Stack</strong><br>
-      Estudante de Análise e Desenvolvimento de Sistemas (IFNMG)
-    </p>
-    <p>
-      Experiência com aplicações web escaláveis e seguras, focado em boas práticas, arquitetura de software e autenticação JWT.
-    </p>
-    <p>
-      <strong>Tecnologias:</strong> JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma, Drizzle ORM, Docker
-    </p>
-    <p>
-      Apaixonado por desenvolvimento de soluções robustas e escaláveis, sempre em busca de aprendizado contínuo.
-    </p>
-  </div>
-
-</div>
-
-
-
-  
-<!-- <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/server-animate%20(1).svg" alt="Imagem" width="150"/>
-   
-
-
- <p align="center">
-  Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas (IFNMG)
-</p>
-
 <p align="center">
-  Experiência com aplicações web escaláveis e seguras, focado em boas práticas, arquitetura de software e autenticação JWT.
+👋 Olá! Sou Isaque Rodrigues  
+Estudante em Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | C++ | JavaScript | TypeScript | Node.js | ReactJs | HTML & CSS  | MySQL | PostgreSQL| Prisma 💻 Sobre mim  
+Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas no IFNMG. Tenho experiência em desenvolvimento web, criando aplicações dinâmicas e interativas. Meu foco é aprimorar minhas habilidades em tecnologias front-end e back-end para desenvolver soluções eficientes e escaláveis.
 </p>
-
-<p align="center">
-  <strong>Tecnologias:</strong> JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma, Drizzle ORM, Docker
-</p>
-
-<p align="center">
-  Apaixonado por desenvolvimento de soluções robustas e escaláveis, sempre em busca de aprendizado contínuo.
-</p>  -->
-
 
 ###
 
@@ -59,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,docker,postgres,prisma,express,html,css,cpp,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,docker,postgres,prisma,express,html,css,cpp,git,github,premiere" />
   </a>
 </p>
 
