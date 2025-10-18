@@ -10,9 +10,14 @@
 ###
 
 <p align="center">👋 Olá! Sou Isaque Rodrigues
-Estudante em Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | C++ | JavaScript | HTML & CSS | Node.js | MySQL & SQL |
+Estudante de Análise e Desenvolvimento de Sistemas | IFNMG | Desenvolvedor Full Stack | JavaScript | TypeScript | Node.js | Express | Fastify | React.js | MySQL & PostgreSQL | Prisma & Drizzle ORM |
 💻 Sobre mim
-Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas no IFNMG. Tenho experiência em desenvolvimento web, criando aplicações dinâmicas e interativas. Meu foco é aprimorar minhas habilidades em tecnologias front-end e back-end para desenvolver soluções eficientes e escaláveis.</p>
+Estudante de Análise e Desenvolvimento de Sistemas (IFNMG) e Desenvolvedor Full Stack com experiência em aplicações web escaláveis e seguras. 
+
+Domínio em JavaScript, TypeScript, Node.js (Express, Fastify), React.js, MySQL, PostgreSQL, Prisma e Drizzle ORM. Focado em boas práticas, arquitetura de software e autenticação JWT.
+
+Uso Docker para gerenciamento de contêineres e deploy eficiente. Busco aprimorar continuamente minhas habilidades para entregar soluções robustas e escaláveis.</p>
+
 
 ###
 
