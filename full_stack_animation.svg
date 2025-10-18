@@ -1,39 +1,83 @@
-<svg width="420" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="auto" role="img" aria-label="Full Stack Developer">
   <defs>
-    <!-- Gradiente verde animado -->
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff88">
-        <animate attributeName="stop-color" values="#00ff88;#00ffaa;#00ff88" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00cc66">
-        <animate attributeName="stop-color" values="#00cc66;#00ff88;#00cc66" dur="3s" repeatCount="indefinite"/>
-      </stop>
+    <!-- Gradiente base verde -->
+    <linearGradient id="gradGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c853"/>
+      <stop offset="50%" stop-color="#00e676"/>
+      <stop offset="100%" stop-color="#66ffb2"/>
     </linearGradient>
 
-    <style>
-      .text {
-        font-family: 'Poppins', sans-serif;
-        font-size: 38px;
-        font-weight: 600;
-        fill: url(#grad1);
-        letter-spacing: 2px;
-        filter: drop-shadow(0 0 6px #00ff99);
-        animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;
-      }
+    <!-- Gradiente de brilho -->
+    <linearGradient id="shimmer" x1="0" x2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="45%" stop-color="rgba(255,255,255,0.55)" />
+      <stop offset="55%" stop-color="rgba(255,255,255,0.25)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+    </linearGradient>
 
-      /* Movimento suave de flutuação */
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-5px); }
-      }
+    <!-- Máscara para o brilho -->
+    <mask id="textMask">
+      <rect x="0" y="0" width="100%" height="100%" fill="black"/>
+      <text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle"
+            font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial"
+            font-weight="700" font-size="64" fill="white" letter-spacing="2">Full Stack Developer</text>
+    </mask>
 
-      /* Brilho pulsante sutil */
-      @keyframes glow {
-        0% { filter: drop-shadow(0 0 4px #00ff99); }
-        100% { filter: drop-shadow(0 0 10px #00ffaa); }
-      }
-    </style>
+    <!-- Sombra suave -->
+    <filter id="softDrop" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
+      <feOffset in="blur" dx="0" dy="6" result="offsetBlur"/>
+      <feMerge>
+        <feMergeNode in="offsetBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+      <feColorMatrix type="matrix" values="0 0 0 0 0
+                                           0 0 0 0 0
+                                           0 0 0 0 0
+                                           0 0 0 0.35"/>
+    </filter>
   </defs>
 
-  <text x="20" y="70" class="text">Full Stack Developer</text>
+  <style>
+    text.title {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 64px;
+      letter-spacing: 2px;
+    }
+
+    /* flutuação suave */
+    @keyframes floatY {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(-8px); }
+      100% { transform: translateY(0px); }
+    }
+
+    /* aplicar ao grupo */
+    g.floating {
+      animation: floatY 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- grupo com efeito flutuante -->
+  <g class="floating" filter="url(#softDrop)">
+    <text class="title" x="50%" y="48%" text-anchor="middle" dominant-baseline="middle"
+          fill="url(#gradGreen)" stroke="#053f17" stroke-opacity="0.12" stroke-width="1.2">
+      Full Stack Developer
+    </text>
+
+    <!-- brilho -->
+    <g mask="url(#textMask)">
+      <rect x="-10%" y="-10%" width="120%" height="140%" fill="url(#gradGreen)" opacity="0.06"/>
+      <rect id="shimmerRect" x="-40%" y="0" width="40%" height="100%" fill="url(#shimmer)" opacity="1">
+        <animate attributeName="x" from="-40%" to="140%" dur="1.8s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <title>Full Stack Developer — animated floating text</title>
+  <desc>Texto animado "Full Stack Developer" com gradiente verde, brilho e flutuação suave.</desc>
 </svg>
