@@ -19,7 +19,7 @@ Sou desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,docker,postgres,prisma,express,html,css,cpp,git,github,premiere" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,docker,postgres,prisma,express,html,css,cpp,git,github" />
   </a>
 </p>
 
