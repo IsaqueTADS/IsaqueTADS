@@ -20,10 +20,9 @@
 
   Focused on clean architecture, best development practices, and JWT-based authentication.
 
-  Also experienced with Docker for containerization, environment standardization, and efficient application deployment.
-
   Continuously improving technical skills to design and deliver robust, maintainable, and production-ready solutions.
 </p>
+
 
 
 
