@@ -18,7 +18,6 @@
   Conhecimento em bancos de dados relacionais como MySQL e PostgreSQL, utilizando Prisma e Drizzle ORM para modelagem eficiente e otimização de performance.
 
   Aplicação de princípios de arquitetura limpa (Clean Architecture), boas práticas de desenvolvimento, autenticação com JWT e organização de código orientada à escalabilidade e manutenção.
-
   Experiência com deploy e integração contínua (CI/CD), utilizando AWS EC2 e banco de dados serverless (Neon), garantindo aplicações estáveis em ambiente de produção.
 </p>
 
