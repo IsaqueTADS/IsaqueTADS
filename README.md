@@ -12,7 +12,6 @@
 ###
 <p align="justify">
   Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas pelo IFNMG, com foco na construção de aplicações web escaláveis, seguras e prontas para produção.
-
   Experiência no ecossistema moderno de JavaScript/TypeScript, atuando com React.js no frontend e Node.js (Express e Fastify) no backend, desenvolvendo APIs REST e sistemas completos.
 
   Conhecimento em bancos de dados relacionais como MySQL e PostgreSQL, utilizando Prisma e Drizzle ORM para modelagem eficiente e otimização de performance.
