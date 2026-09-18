@@ -39,7 +39,7 @@ organizadas, tipadas e fáceis de manter.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=typescript,nodejs,fastify,express,react,nextjs,postgres,prisma,docker,git,github"
+    src="https://skillicons.dev/icons?i=typescript,nodejs,express,react,nextjs,postgres,prisma,docker,git,github"
     alt="Tech Stack"
   />
 </p>
