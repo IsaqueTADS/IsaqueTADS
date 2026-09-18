@@ -1,72 +1,93 @@
-<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg" alt="Full Stack Developer" />
+</p>
+
+<h1 align="center">Isaque Rodrigues</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg">
+  <strong>Software Developer • Backend & Full Stack • TypeScript</strong>
 </p>
-
-
-###
-
-<img align="left" height="350" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"  />
-
-###
-<p align="justify">
-  Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas pelo IFNMG, com foco na construção de aplicações web escaláveis, seguras e prontas para produção.
-  Experiência no ecossistema moderno de JavaScript/TypeScript, atuando com React.js no frontend e Node.js (Express e Fastify) no backend, desenvolvendo APIs REST e sistemas completos.
-
-  Conhecimento em bancos de dados relacionais como MySQL e PostgreSQL, utilizando Prisma e Drizzle ORM para modelagem eficiente e otimização de performance.
-
-  Aplicação de princípios de arquitetura limpa (Clean Architecture), boas práticas de desenvolvimento, autenticação com JWT e organização de código orientada à escalabilidade e manutenção.
-  Experiência com deploy e integração contínua (CI/CD), garantindo aplicações estáveis em ambiente de produção.
-</p>
-
-
-
-
-###
-
-<br clear="both">
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,nodejs,docker,postgres,prisma,express,html,css,cpp,git,github" />
-  </a>
+  Desenvolvedor focado na construção de aplicações web, APIs e sistemas completos
+  utilizando o ecossistema moderno de JavaScript e TypeScript.
 </p>
+
+<br>
+
+<img align="right" height="240" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" alt="Backend Development" />
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG** e desenvolvedor com foco em **backend e desenvolvimento full stack**.
+
+Tenho experiência principalmente com **TypeScript e Node.js**, desenvolvendo APIs REST, aplicações web e integrações com bancos de dados relacionais.
+
+No frontend, trabalho principalmente com **React, Next.js e Vite**. No backend, utilizo **Node.js, Fastify e Express**, com **PostgreSQL/MySQL** e ORMs como **Prisma e Drizzle**.
+
+Também tenho experiência com:
+
+* Arquitetura de aplicações e organização por responsabilidades
+* Autenticação e autorização
+* Validação de dados com Zod
+* Docker e ambientes de desenvolvimento
+* OpenAPI / Swagger
+* Integração de APIs e serviços externos
+* CI/CD e deploy
+* Desenvolvimento orientado a boas práticas e manutenibilidade
 
 <br clear="both">
 
-<div align="center">
+## 🛠️ Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,fastify,express,react,nextjs,vite,postgres,mysql,prisma,docker,git,github" alt="Tecnologias" />
+</p>
+
+## 🔧 Ferramentas e tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,linux,figma" alt="Ferramentas e tecnologias" />
+</p>
+
+<p align="center">
+  <strong>Backend</strong> · Node.js · Fastify · Express · REST APIs · Zod · Prisma · Drizzle
+  <br>
+  <strong>Frontend</strong> · React · Next.js · Vite · Tailwind CSS
+  <br>
+  <strong>Database</strong> · PostgreSQL · MySQL
+  <br>
+  <strong>DevOps</strong> · Docker · GitHub Actions · CI/CD
+</p>
+
+## 🚀 Projetos em destaque
+
+### FocuzEvent
+
+Plataforma para criação, gerenciamento e impulsionamento de eventos, com autenticação, pagamentos, geolocalização e gerenciamento de usuários.
+
+**TypeScript · Node.js · Express · Prisma · PostgreSQL · React · Stripe**
+
+### Fit.AI
+
+Aplicação web mobile-first para gerenciamento de treinos com autenticação, estatísticas e personal trainer baseado em IA.
+
+**TypeScript · Fastify · Next.js · PostgreSQL · Prisma · Better Auth · AI SDK · Docker**
+
+
+
+## 📚 Atualmente aprofundando
+
+* Arquitetura de software
+* Backend com TypeScript
+* Bancos de dados relacionais
+* Docker e infraestrutura
+* Testes automatizados
+* Sistemas distribuídos
+* Open Source
+
+<br>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<h1 align="left">Entre em contato!</h1>
-
-###
-
-<img align="left" height="150" src="https://github.com/IsaqueTADS/IsaqueTADS/blob/main/ISAQUE.gif?raw=true" />
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC1ZcpOjaVvdP5d1Z0Z_HKsw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=IsaqueTADS&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-
-  <a href="https://www.youtube.com/@BaixaEnergia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BaixaEnergia&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-
-  <a href="https://www.instagram.com/isaque_rodriguesdev/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e867d1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/isaque-rodriguestads" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-
-  <a href="https://discord.gg/95vAUDcv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
+</p>
