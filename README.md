@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">Isaque Rodrigues</h1>
+
 
 <p align="center">
   <strong>Software Developer · Backend & Full Stack · TypeScript</strong>
@@ -17,13 +17,6 @@
 </p>
 
 <br>
-
-<img
-  align="right"
-  height="230"
-  src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"
-  alt="Backend Development"
-/>
 
 ## Sobre mim
 
