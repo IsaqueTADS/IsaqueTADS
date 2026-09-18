@@ -1,93 +1,102 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg" alt="Full Stack Developer" />
+  <img
+    src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/refs/heads/main/full_stack_animation.svg"
+    alt="Full Stack Development"
+  />
 </p>
 
 <h1 align="center">Isaque Rodrigues</h1>
 
 <p align="center">
-  <strong>Software Developer • Backend & Full Stack • TypeScript</strong>
+  <strong>Software Developer · Backend & Full Stack · TypeScript</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor focado na construção de aplicações web, APIs e sistemas completos
+  Desenvolvedor focado na construção de APIs, aplicações web e sistemas completos
   utilizando o ecossistema moderno de JavaScript e TypeScript.
 </p>
 
 <br>
 
-<img align="right" height="240" src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg" alt="Backend Development" />
+<img
+  align="right"
+  height="280"
+  src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/main/server-animate%20(1).svg"
+  alt="Backend Development"
+/>
 
-## 👨‍💻 Sobre mim
+<h2>👨‍💻 Sobre mim</h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFNMG** e desenvolvedor com foco em **backend e desenvolvimento full stack**.
+<p>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas no IFNMG</strong>
+  e desenvolvedor com foco em <strong>backend e desenvolvimento full stack</strong>.
+</p>
 
-Tenho experiência principalmente com **TypeScript e Node.js**, desenvolvendo APIs REST, aplicações web e integrações com bancos de dados relacionais.
+<p>
+  Minha principal área de atuação é o ecossistema
+  <strong>TypeScript e Node.js</strong>, desenvolvendo APIs REST,
+  autenticação, regras de negócio, integrações com serviços externos
+  e aplicações conectadas a bancos de dados relacionais.
+</p>
 
-No frontend, trabalho principalmente com **React, Next.js e Vite**. No backend, utilizo **Node.js, Fastify e Express**, com **PostgreSQL/MySQL** e ORMs como **Prisma e Drizzle**.
+<p>
+  No frontend, trabalho principalmente com
+  <strong>React, Next.js e Vite</strong>.
+  No backend, utilizo <strong>Node.js, Fastify e Express</strong>,
+  com <strong>PostgreSQL, MySQL, Prisma e Drizzle</strong>.
+</p>
 
-Também tenho experiência com:
-
-* Arquitetura de aplicações e organização por responsabilidades
-* Autenticação e autorização
-* Validação de dados com Zod
-* Docker e ambientes de desenvolvimento
-* OpenAPI / Swagger
-* Integração de APIs e serviços externos
-* CI/CD e deploy
-* Desenvolvimento orientado a boas práticas e manutenibilidade
+<p>
+  Também trabalho com arquitetura de aplicações, validação de dados,
+  autenticação e autorização, documentação de APIs,
+  Docker, CI/CD e deploy.
+</p>
 
 <br clear="both">
 
-## 🛠️ Stack principal
+<h2>🧰 Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,fastify,express,react,nextjs,vite,postgres,mysql,prisma,docker,git,github" alt="Tecnologias" />
-</p>
-
-## 🔧 Ferramentas e tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,linux,figma" alt="Ferramentas e tecnologias" />
+  <img
+    src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,fastify,express,react,nextjs,vite"
+    alt="Core Stack"
+  />
 </p>
 
 <p align="center">
-  <strong>Backend</strong> · Node.js · Fastify · Express · REST APIs · Zod · Prisma · Drizzle
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,tailwind,git,github,githubactions"
+    alt="Backend, Database and DevOps"
+  />
+</p>
+
+<p align="center">
+  <strong>Backend</strong> · Node.js · Fastify · Express · REST APIs
+  <br>
+  <strong>Data</strong> · PostgreSQL · MySQL · Prisma · Drizzle
   <br>
   <strong>Frontend</strong> · React · Next.js · Vite · Tailwind CSS
   <br>
-  <strong>Database</strong> · PostgreSQL · MySQL
+  <strong>Engineering</strong> · Zod · JWT · Better Auth · OpenAPI · Swagger · Docker · CI/CD
   <br>
-  <strong>DevOps</strong> · Docker · GitHub Actions · CI/CD
+  <strong>Integrations</strong> · Stripe · OAuth · AI APIs
+  <br>
+  <strong>Mobile</strong> · React Native · Expo
 </p>
 
-## 🚀 Projetos em destaque
+<h2>🎯 Foco profissional</h2>
 
-### FocuzEvent
-
-Plataforma para criação, gerenciamento e impulsionamento de eventos, com autenticação, pagamentos, geolocalização e gerenciamento de usuários.
-
-**TypeScript · Node.js · Express · Prisma · PostgreSQL · React · Stripe**
-
-### Fit.AI
-
-Aplicação web mobile-first para gerenciamento de treinos com autenticação, estatísticas e personal trainer baseado em IA.
-
-**TypeScript · Fastify · Next.js · PostgreSQL · Prisma · Better Auth · AI SDK · Docker**
-
-
-
-## 📚 Atualmente aprofundando
-
-* Arquitetura de software
-* Backend com TypeScript
-* Bancos de dados relacionais
-* Docker e infraestrutura
-* Testes automatizados
-* Sistemas distribuídos
-* Open Source
+<p>
+  Backend com TypeScript, desenvolvimento de APIs,
+  arquitetura de aplicações, bancos de dados relacionais
+  e construção de sistemas web completos.
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/IsaqueTADS/IsaqueTADS/output/snake.svg"
+    alt="Snake animation"
+  />
 </p>
